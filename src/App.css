@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  color: green;
+  text-align: center;
+  background-color: aqua;
+
+}
+.navbar{
+  line-height: 12px;
+  color: aquamarine;
+  text-transform: uppercase;
+  text-justify: kashida;
+
+}
